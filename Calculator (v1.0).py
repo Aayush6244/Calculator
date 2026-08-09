@@ -24,4 +24,4 @@ elif Operation == 4:
     print ("Answer.", A/B)
 else:
     print ("You did not choose any operation or there's an error in input. Please try again.")
-    # This calculator is made as a 1st working version which includes basic arithmatic operations (+, -, *, /)
+# This calculator is made as a 1st working version which includes basic arithmatic operations (+, -, *, /)
